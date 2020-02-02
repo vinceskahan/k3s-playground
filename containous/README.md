@@ -1,6 +1,6 @@
 ## Example of a minimal cluster
 
-This uses the `containous` container to demonstrate multiple pods and ingress.
+This uses the `containous` image to demonstrate multiple pods and ingress.
 
 Some tests you might run include:
 
@@ -10,7 +10,7 @@ Some tests you might run include:
 
 Note:
 
-* the 'containous' image is available for both x86_64 and armv7 so it runs in VirtualBox/Vagrant on a Windows PC, as well as on a pi4
+* the `containous` image is available for both x86_64 and armv7 so it runs in VirtualBox/Vagrant on a Windows PC, as well as on a pi4
 
 ### To test
 
